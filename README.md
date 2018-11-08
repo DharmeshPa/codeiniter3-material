@@ -1,1 +1,3 @@
-# codeiniter3-material
+# Codeigniter + Materlise CSS
+## Clone the repo
+## Run composer update
