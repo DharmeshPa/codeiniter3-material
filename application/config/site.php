@@ -4,4 +4,4 @@
 $config['siteName']="Sitename";
 
 
-
+?>
